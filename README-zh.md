@@ -5,7 +5,7 @@
 > 这是一个极简的 vue admin 管理后台。它只包含了 Element UI & axios & iconfont & permission control & lint，这些搭建后台必要的东西。
 > 
 个人学习练手项目 
-panjiachen大佬的后台框架地址在
+下面是panjiachen大佬的后台框架地址
 
 [线上地址](http://panjiachen.github.io/vue-admin-template)
 
@@ -49,6 +49,7 @@ panjiachen大佬的后台框架地址在
 ```bash
 # 克隆项目
 git clone https://github.com/yyc001207/vue-admin-template-example.git
+
 # panjiacheng
 git clone https://github.com/PanJiaChen/vue-admin-template.git
 
@@ -101,7 +102,7 @@ npm run lint -- --fix
 
 ## Demo
 
-![demo](https://github.com/PanJiaChen/PanJiaChen.github.io/blob/master/images/demo.gif)
+![demo]((src/assets/test.png))
 
 ## Browsers support
 

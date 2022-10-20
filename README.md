@@ -4,11 +4,11 @@ English | [简体中文](./README-zh.md)
 
 > A minimal vue admin template with Element UI & axios & iconfont & permission control & lint
 
-Personal learning and practice program.
-
-The address of the background frame of panjiachen is
+Personal learning and practice program
+The following is the background frame address of panjiachen
 
 [Online address](http://panjiachen.github.io/vue-admin-template)
+[Home visit](https://panjiachen.gitee.io/vue-admin-template)
 
 **Live demo:** http://panjiachen.github.io/vue-admin-template
 
@@ -73,7 +73,7 @@ Refer to [Documentation](https://panjiachen.github.io/vue-element-admin-site/gui
 
 ## Demo
 
-![demo](https://github.com/PanJiaChen/PanJiaChen.github.io/blob/master/images/demo.gif)
+![demo](src/assets/test.png)
 
 ## Extra
 
