@@ -15,6 +15,11 @@
       v-show="$store.state.user.buttons.indexOf('btn.Add2') != -1"
       >添加按钮3</el-button
     >
+    <el-button
+      type="primary"
+      v-show="$store.state.user.buttons.indexOf('btn.Add2') != -1"
+      >添加按钮4</el-button
+    >
   </div>
 </template>
 
